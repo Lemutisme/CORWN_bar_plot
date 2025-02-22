@@ -5,8 +5,6 @@ The visualizations focus on comparing the number of verified instances and the v
 
 ## Requirements
 
-Make sure you have the required dependencies installed. For example, you can install seaborn with:
-
 ```bash
 conda install seaborn
 ```
@@ -14,4 +12,3 @@ conda install seaborn
 ## How to Use
 
 Simply open and run the `visualization.ipynb` notebook in Jupyter Notebook to see the plots in action.
-```
